@@ -1,0 +1,25 @@
+body{
+    background-color: purple
+}
+h1{
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 100px;
+}
+p{
+    font-size: 60px;
+}
+a{
+    color: white;
+    font-size: 30px;
+}
+a:hover{
+    color: yellow;
+}
+div{
+    text-align: center;
+    color: white;
+    
+  
+}
